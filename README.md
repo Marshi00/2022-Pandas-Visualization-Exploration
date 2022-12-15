@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <br>
-  <img src="static/images/gg1.jpg"  width="1100">
+  <img src="img/gg1.jpg"  width="1100">
   <br>
   Development Technologies 
   <br>
